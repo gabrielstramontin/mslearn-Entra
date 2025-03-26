@@ -16,6 +16,7 @@ This exercise should take approximately **15** minutes to complete.
 1. From the menu on the left, select **Groups** and then **All groups**.
 1. Select **New group** option.
 1. Enter the requested information:
+
    | Field | Value |
    | :---  | :---  |
    | Group type | Microsoft 365 |
@@ -34,6 +35,7 @@ This exercise should take approximately **15** minutes to complete.
 1. From the menu on the left, select **Groups** and then **All groups**.
 1. Select **New group** option.
 1. Enter the requested information:
+
    | Field | Value |
    | :---  | :---  |
    | Group type | Security |
@@ -43,6 +45,7 @@ This exercise should take approximately **15** minutes to complete.
 
 1. Under the **Dynamic user members** heading, select **Add dynamic query**.
 1. Create a dynamic query with the following values:
+
    | Field | Value |
    | :---  | :---  |
    | Property | userType |
@@ -102,18 +105,3 @@ This exercise should take approximately **15** minutes to complete.
 1. Use the **Assign** button at the bottom of the screen.
 1. Close the **You assigned licenses...** notification.
 1. Use the **Refresh** button to see the added group licenses.
-
-## Clean up
-
-<!-- Good practice - especially as self-paced learners will be using their own subscriptions -->
-<!-- Delete this section if it is not needed -->
-
-Now that you've finished the exercise, you should delete the cloud resources you've created to avoid unnecessary resource usage.
-
-1. Step 1
-2. etc.
-
-
-1. APL0501labpw!
-
-

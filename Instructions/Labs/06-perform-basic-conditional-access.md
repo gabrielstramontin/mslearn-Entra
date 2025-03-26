@@ -60,7 +60,10 @@ This exercise should take approximately **10** minutes to complete.
 1. Set the value to **On**.
 1. Select the **Create** button.
 
-   **Lab tip** - You have three options to pick from, and you can change value at any time, without having to change the policy.  On, enables the policy to run. Off, turn the policy off in case you need to modify it.  Report-only, use this option to review the impact of the policy before you fully turn it on.
+   **Lab tip** - You have three options to pick from, and you can change value at any time, without having to change the policy.
+   - On = enables the policy to run
+   - Off = turn the policy off in case you need to modify it.
+   - Report-only = use this option to review the outcome of the policy before you fully turn it on.
 
 ## Task 2 - Perform a What If analysis for a conditional access policy
 

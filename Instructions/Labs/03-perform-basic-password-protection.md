@@ -29,6 +29,7 @@ This exercise should take approximately **5** minutes to complete.
 
 1. Set **Enforce custom list** to **Yes**.
 1. Enter the following values:
+
    - Contoso
    - London
    - Widget
@@ -37,4 +38,3 @@ This exercise should take approximately **5** minutes to complete.
 
 1. Set the value for **Mode** to **Enforced**.
 1. Select the **Save** item at the top of the screen.
-

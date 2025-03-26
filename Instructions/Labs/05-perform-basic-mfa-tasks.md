@@ -68,4 +68,3 @@ This exercise should take approximately **10** minutes to complete.
    - Fraud alert
    - Block / unblock users
    - Notifications
-

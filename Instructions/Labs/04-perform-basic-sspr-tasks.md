@@ -55,4 +55,3 @@ This exercise should take approximately **15** minutes to complete. <!-- update 
 1. Leave the **Notify users on password reset?** at the default of **Yes**.
 1. Change the **Notify all admins when other admins reset their password?** value to **Yes**.
 1. Use the **Save** option to save your changes.
-
