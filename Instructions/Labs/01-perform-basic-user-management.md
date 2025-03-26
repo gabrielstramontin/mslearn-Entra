@@ -16,6 +16,7 @@ This exercise should take approximately **10** minutes to complete.
 1. From the menu on the left, select **User** and then **All users**.
 1. Select **+ New user** and then pick the **Create new user** option.
 1. Enter the requested information:
+
    | Field | Value |
    | :---  | :---  |
    | User principal name | BhogeswarK |
@@ -26,6 +27,7 @@ This exercise should take approximately **10** minutes to complete.
 1. Leave Accounted enabled checked.
 1. Select the Properties tab.
 1. Set the values for first and last name:
+
    | Field | Value |
    | :---  | :---  |
    | First name | Bhogeswar |
@@ -42,6 +44,7 @@ This exercise should take approximately **10** minutes to complete.
 1. Open an InPrivate browsing window.
 1. Connect to the [Microsoft Entra admin center](https://entra.microsoft.com) at the link `https://entra.microsoft.com`.
 1. Enter the username and password you just created.
+
    | Field | Value |
    | :---  | :---  |
    | Username | BhogeswarK@`your tenant name`.onmicrosoft.com |
@@ -75,6 +78,7 @@ This exercise should take approximately **10** minutes to complete.
 1. At the top of the page select **+ New User**.
 1. Choose the option to **Invite external user** from the dropdown.
 1. Enter the information for your new external user:
+
    | Field | Value |
    | :---  | :---  |
    | Email | ExtUser@testemail.com |
