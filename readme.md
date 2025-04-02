@@ -1,7 +1,7 @@
 # Microsoft Lab Exercises
 <!-- Change the title above as appropriate -->
 
-**[Link to labs (HTML format)](https://microsoftlearning.github.io/APL-0501-Get-started-Microsoft-Entra-Management-Tasks/)**
+**[Link to labs (HTML format)](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/)**
 
 This repo contains exercises and supporting files for Microsoft skilling content.
 
