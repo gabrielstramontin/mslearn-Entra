@@ -71,7 +71,7 @@ This exercise should take approximately **10** minutes to complete.
 
 ## Task 3 - Invite an external user to your tenant
 
-1. If not already open - Open a browser and connect to the [Microsoft Entra admin cetner](https://entra.microsoft.com) at `https://entra.microsoft.com`.
+1. If not already open - Open a browser and connect to the [Microsoft Entra admin center](https://entra.microsoft.com) at `https://entra.microsoft.com`.
 1. If prompted, log in using the credentials for your tenant.
 1. From the menu on the left, open the **Identity** menu.
 1. Select **Users** then select **All users**.
@@ -90,7 +90,7 @@ This exercise should take approximately **10** minutes to complete.
 
 ## Task 4 - Assign a role to a user
 
-1. If not already open - Open a browser and connect to the [Microsoft Entra admin cetner](https://entra.microsoft.com) at `https://entra.microsoft.com`.
+1. If not already open - Open a browser and connect to the [Microsoft Entra admin center](https://entra.microsoft.com) at `https://entra.microsoft.com`.
 1. If prompted, log in using the credentials for your tenant.
 1. In the left menu find the **Identity** section. Open it if not already opened.
 1. Select **Users** then select **All users**.
@@ -120,7 +120,7 @@ This exercise should take approximately **10** minutes to complete.
 1. Select **Assign**.
 
 ## Task 5 - Bulk import users
-1. If not already open - Open a browser and connect to the [Microsoft Entra admin cetner](https://entra.microsoft.com) at `https://entra.microsoft.com`.
+1. If not already open - Open a browser and connect to the [Microsoft Entra admin center](https://entra.microsoft.com) at `https://entra.microsoft.com`.
 1. If prompted, log in using the credentials for your tenant.
 1. From the **Identity** menu, select **Users** and then select **All users**.
 1. From the top of the page, select the **Bulk operations** drop-down arrow and then select **Bulk create**.
