@@ -1,4 +1,4 @@
-# Microsoft Entra Identities and Access Management:
+# Microsoft Entra Identity and Access Management:
 For more information about this Microsoft Applied Skills, please check **[Microsoft Learn Documentation](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/)**
 
 ### Prepare for your assessment:
