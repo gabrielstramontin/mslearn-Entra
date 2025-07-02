@@ -1,16 +1,13 @@
-# Microsoft Lab Exercises
-<!-- Change the title above as appropriate -->
+# Microsoft Entra Identities and Access Management:
+For more information about this Microsoft Applied Skills, please check **[Microsoft Learn Documentation](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/)**
 
-**[Link to labs (HTML format)](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/)**
+### Prepare for your assessment:
+**[Learning Path](https://learn.microsoft.com/en-us/training/paths/perform-basic-identity-access-tasks/)**
 
-This repo contains exercises and supporting files for Microsoft skilling content.
-
-The exercises may be used in both self-paced skilling experiences on [Microsoft Learn](https://learn.microsoft.com) and in Microsoft authorized instructor-led training.
-<!-- Update thr paragraph above with a link to a specific Learning Path or course as appropriate -->
-
-## Information for MCTs
-<!-- You can remove this section if the exercises will not be used to support Microsoft Official Curriculum ILT -->
-
-**Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-
-Any MCT (Microsoft Certified Trainer) can submit a pull request to the code or content in the GitHub repro. Microsoft and the course author will then triage and include content and lab code changes as needed. You can submit bugs, changes, improvement, and ideas. Find a new Azure or Microsoft 365 feature before we have? Submit a new demo!
+### Labs Exercises:
+- [Exercise 01](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/Instructions/Labs/01-perform-basic-user-management.html): Perform User Management tasks.
+- [Exercise 02](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/Instructions/Labs/02-perform-basic-group-management.html): Perform Group Management tasks.
+- [Exercise 03](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/Instructions/Labs/03-perform-basic-password-protection.html): Perform Password Protection tasks.
+- [Exercise 04](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/Instructions/Labs/04-perform-basic-sspr-tasks.html): Perform Self-Service Password Reset (SSPR) tasks.
+- [Exercise 05](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/Instructions/Labs/05-perform-basic-mfa-tasks.html): Perform Mulitfactor Authentication (MFA) tasks.
+- [Exercise 06](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/Instructions/Labs/06-perform-basic-conditional-access.html): Perform Conditional Access Policy tasks.
